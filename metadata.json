@@ -1,0 +1,8 @@
+{
+  "name": "Museo AR Los Perales",
+  "description": "Tour virtual con realidad aumentada para el museo de la Escuela de los Perales. Identificación de objetos, narraciones y videos explicativos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
