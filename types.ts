@@ -23,6 +23,7 @@ export interface ScanResult {
 }
 
 export enum AppState {
+  WELCOME = 'WELCOME',
   IDLE = 'IDLE',
   SCANNING = 'SCANNING',
   FOUND = 'FOUND',
